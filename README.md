@@ -78,10 +78,6 @@ rifa_fathima:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifafathima16&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=00F5FF&amp;fire=FF00E5&amp;currStreakLabel=00F5FF"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifafathima16&amp;theme=neon&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00F5FF&amp;line=FF00E5&amp;point=ffffff&amp;area=true&amp;area_color=8E2DE2"/>
-
 </div>
 
 ---
