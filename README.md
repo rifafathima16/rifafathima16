@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:8e2de2,100:00f5ff&amp;height=250&amp;section=header&amp;text=Hi%20There%2C%20I%27m%20Rifa%20%F0%9F%91%8B&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20Science%20%26%20Data%20Science%20Student%20%40%20AICT&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:8e2de2,100:00f5ff&amp;height=250&amp;section=header&amp;text=Hi%20There%20I%20am%20Rifa&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Computer%20Science%20and%20Data%20Science%20Student%20at%20AICT&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 🧬 About Me
 
@@ -46,7 +46,7 @@ rifa_fathima:
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -65,14 +65,14 @@ rifa_fathima:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifafathima16&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9&amp;ring_color=8E2DE2"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifafathima16&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;text_color=c9d1d9&amp;langs_count=8"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=rifafathima16&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9&amp;ring_color=8E2DE2"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rifafathima16&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;text_color=c9d1d9&amp;langs_count=8"/>
 
 <br/>
 
@@ -84,7 +84,7 @@ rifa_fathima:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -92,28 +92,28 @@ rifa_fathima:
 <img src="https://github-profile-trophy.vercel.app/?username=rifafathima16&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/rifafathima16/snapify-editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifafathima16&amp;repo=snapify-editor&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=rifafathima16&amp;repo=snapify-editor&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/rifafathima16/DSA-Visualizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifafathima16&amp;repo=DSA-Visualizer&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=rifafathima16&amp;repo=DSA-Visualizer&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9"/>
 </a>
 <br/>
 <a href="https://github.com/rifafathima16/python_practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifafathima16&amp;repo=python_practice&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=rifafathima16&amp;repo=python_practice&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=FF00E5&amp;text_color=c9d1d9"/>
 </a>
 
 </div>
 
 > 🎬 **[ForgeVideo](http://forgevideo.automatech.live/)** — AI-powered platform transforming long-form videos into platform-ready short-form content using intelligent editing, Ollama-based generative AI, and automated optimization. *(Dec 2025 – Aug 2026)* · [🔗 Live Demo](http://forgevideo.automatech.live/)
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 📈 Contribution Snake
 
@@ -121,9 +121,9 @@ rifa_fathima:
 <img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ Snake animation auto-generates once the [GitHub Action below](#-snake-animation-setup) is added to your repo.
+> ⚙️ The snake animation renders once the GitHub Action (setup instructions below) runs for the first time.
 
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/main/assets/divider.gif" width="100%" height="5px"/>
+---
 
 ## 🤝 Connect With Me
 
