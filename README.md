@@ -86,11 +86,17 @@ rifa_fathima:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Milestones
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rifafathima16&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=-1"/>
+
+<img src="https://img.shields.io/badge/Account-New%20%26%20Growing-8E2DE2?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-00F5FF?style=for-the-badge&amp;logo=openai&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Building-ForgeVideo-FF00E5?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white"/>
+
 </div>
+
+> 🌱 This GitHub account is new — trophies and streak badges will fill in automatically as commits and stars come in. Check back in a few weeks!
 
 ---
 
@@ -112,52 +118,6 @@ rifa_fathima:
 </div>
 
 > 🎬 **[ForgeVideo](http://forgevideo.automatech.live/)** — AI-powered platform transforming long-form videos into platform-ready short-form content using intelligent editing, Ollama-based generative AI, and automated optimization. *(Dec 2025 – Aug 2026)* · [🔗 Live Demo](http://forgevideo.automatech.live/)
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-</div>
-
-> ⚙️ **Setup required:** this animation only appears after you add the GitHub Action below to this repo (`.github/workflows/snake.yml`) and it runs once. Until then this section will show broken/blank — that's expected, not a bug.
-
-<details>
-<summary>📄 Click to view the required GitHub Action (snake.yml)</summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rifafathima16
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Save this as `.github/workflows/snake.yml` in this repo, then go to the **Actions** tab and run it manually once (`workflow_dispatch`). It'll then run daily on its own.
-
-</details>
 
 ---
 
