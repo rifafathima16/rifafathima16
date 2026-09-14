@@ -89,7 +89,7 @@ rifa_fathima:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rifafathima16&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rifafathima16&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=-1"/>
 </div>
 
 ---
@@ -118,10 +118,46 @@ rifa_fathima:
 ## 📈 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rifafathima16/rifafathima16/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 </div>
 
-> ⚙️ The snake animation renders once the GitHub Action (setup instructions below) runs for the first time.
+> ⚙️ **Setup required:** this animation only appears after you add the GitHub Action below to this repo (`.github/workflows/snake.yml`) and it runs once. Until then this section will show broken/blank — that's expected, not a bug.
+
+<details>
+<summary>📄 Click to view the required GitHub Action (snake.yml)</summary>
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rifafathima16
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Save this as `.github/workflows/snake.yml` in this repo, then go to the **Actions** tab and run it manually once (`workflow_dispatch`). It'll then run daily on its own.
+
+</details>
 
 ---
 
